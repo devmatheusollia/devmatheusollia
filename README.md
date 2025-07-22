@@ -11,12 +11,14 @@
 
 ## 🧑‍💻 Sobre mim
 > <div style="background-color:#0D1117; padding:15px; border-radius:8px">
-- 🎓 Sou professor de informática educacional e empresarial, informática 5.0, informática sênior e infraestrutura de T.I  
-- 🖥️ O geek mais descolado que você conhecerá 😎 
-- 🌌 Curioso por Astronomia, Física e DevOps  
-- 🌎 Gosto de conversar sobre geopolítica, religiões e história 
-- 🐈 Tenho dois gatos: Haxixe e Shelby  
-- ⚽ Torço para o maior time do Brasil (vulgo SÃO PAULO FUTEBOL CLUBE) 🔴⚪⚫
+- 👨🏻‍💻 Me chamo Matheus Ollia, tenho 23 anos e moro na Vila Prudente - SP.
+- 📚 Atualmente curso o 3º semestre de Sistemas de Informação, com previsão de graduação para julho de 2027.
+- 🎓 Sou professor de informática (educacional, empresarial, informática 5.0, sênior e infraestrutura de T.I.).  
+- 🖥️ Provavelmente o geek mais descolado que você vai conhecer. 😎
+- 🌌 Curioso por Astronomia, Física e DevOps.
+- 🌎 Gosto de bons papos sobre geopolítica, religiões e história. 
+- 🐈 Tenho dois gatos: Haxixe e Shelby.  
+- ⚽ Torço para o MAIOR time do Brasil (SÃO PAULO FUTEBOL CLUBE) 🔴⚪⚫
 > </div>
 
 ---
@@ -46,13 +48,14 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KardinalMO&show_icons=true&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api?username=KardinalMO&show_icons=true&theme=tokyonight&cache_seconds=60" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KardinalMO&layout=compact&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KardinalMO&layout=compact&theme=tokyonight&cache_seconds=60" />
     </td>
   </tr>
 </table>
+
 
 
 
