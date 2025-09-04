@@ -4,21 +4,21 @@
 
 <div align="center">
   
-# 🦇 Olá, eu sou o KardinalMO! 🦇  
+# 🦇 Olá! 🦇  
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🖥️ Sobre mim
 > <div style="background-color:#0D1117; padding:15px; border-radius:8px">
-- 👨🏻‍💻 Me chamo Matheus Ollia, tenho 23 anos e moro na Vila Prudente - SP.
-- 📚 Atualmente curso o 3º semestre de Sistemas de Informação, com previsão de graduação para julho de 2027.
-- 🎓 Sou professor de informática (educacional, empresarial, informática 5.0, sênior e infraestrutura de T.I.).  
-- 🖥️ Provavelmente o geek mais descolado que você vai conhecer. 😎
-- 🌌 Curioso por Astronomia, Física e DevOps.
-- 🌎 Gosto de bons papos sobre geopolítica, religiões e história. 
-- 🐈 Tenho dois gatos: Haxixe e Shelby.  
-- ⚽ Torço para o MAIOR time do Brasil (SÃO PAULO FUTEBOL CLUBE) 🔴⚪⚫
+- Me chamo Matheus Ollia, tenho 23 anos e moro na Vila Prudente - SP.
+- Atualmente curso o 4º semestre de Sistemas de Informação, com previsão de graduação para julho de 2027.
+- Sou professor de informática (educacional, empresarial, informática 5.0, sênior e infraestrutura de T.I.).  
+- Provavelmente o geek mais descolado que você vai conhecer. 😎
+- Curioso por Astronomia, Física e DevOps.
+- Gosto de bons papos sobre geopolítica, religiões e história. 
+- Tenho dois gatos: Haxixe e Shelby.  
+- Torço para o MAIOR time do Brasil (SÃO PAULO FUTEBOL CLUBE) 🔴⚪⚫
 > </div>
 
 ---
@@ -44,14 +44,14 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KardinalMO&show_icons=true&theme=tokyonight&cache_seconds=60" />
+      <img src="https://github-readme-stats.vercel.app/api?username=devmatheusollia&show_icons=true&theme=tokyonight&cache_seconds=60" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KardinalMO&layout=compact&theme=tokyonight&cache_seconds=60" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheusollia&layout=compact&theme=tokyonight&cache_seconds=60" />
     </td>
   </tr>
 </table>
@@ -62,17 +62,22 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=KardinalMO&theme=darkhub&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=devmatheusollia&theme=darkhub&no-frame=true&margin-w=15"/>
 
 </p>
 
 ---
 
-## 📫 Onde me encontrar:
+## Onde me encontrar:
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/matheusollia)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusollia.py)
+<a href="https://matheusollia.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/-Meu_Site-808080?style=for-the-badge" alt="Meu Site">
+</a>
+</p>
+
 
 </p>
 
